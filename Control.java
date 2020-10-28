@@ -21,7 +21,7 @@ import sun.security.x509.AlgorithmId;
  * @author Acer
  */
 public class Control {
-
+//da fix
     private PuzzleGame pz;
     private int size = 3;
     private JButton[][] matrix;
